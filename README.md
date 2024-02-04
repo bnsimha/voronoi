@@ -1,6 +1,6 @@
 # voronoi
 Implementing Voronoi Diagram in Java using JTS and Swing
-<img width="1440" alt="Screenshot 2024-02-04 at 10 14 36 AM" src="https://github.com/bnsimha/voronoi/assets/71836560/d7353926-0a22-4cf9-a288-500966ff800d">
+![image](https://github.com/bnsimha/voronoi/assets/71836560/6ae03fa7-384f-469b-8c04-63090f0d4a27)
 
 JTS is an open-source library that provides a complete and flexible set of tools for working with geometric objects in Java. It supports 2D and some basic 3D geometry operations. JTS is widely used in the GIS community and can be a good choice for computational geometry tasks in Java.
 
