@@ -11,3 +11,5 @@ Voronoi diagrams have diverse applications, including computer graphics, computa
 Beyond their practical applications, Voronoi diagrams are aesthetically interesting and often used in art and design due to their visually appealing and intricate patterns.
 
 This is a beginner project that I aimed to do to explore JTS and the vast world of Computational Geometry.
+
+A refresh button is provided to regenerate sites and regions. A slider is integrated to play around with the number of sites.
